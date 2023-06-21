@@ -6,7 +6,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+soumi-basu-91%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Corefinder89&color=ff69b4)
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/soumi-pal-basu-a6712a106/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/Sheulibelongshere">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=soumi.basu16@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
+---
+
+![](https://komarev.com/ghpvc/?username=soumi-basu-91&color=ff69b4)
 
 ---
 ### 👦 About Me
@@ -19,7 +39,11 @@
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
 --- 
+Like My Work?
 
+<a href="https://www.buymeacoffee.com/soumibasu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+---
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=soumi-basu-91&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=soumi-basu-91&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=soumi-basu-91&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
@@ -31,7 +55,6 @@
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=soumi-basu-91&theme=react) -->
 
 --- 
-
 
 ### ⚙️ My Projects 
 
@@ -132,27 +155,3 @@ EJS          3 hrs 50 mins   ▒░░░░░░░░░░░░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://soumi-basu-91.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://soumi-basu-91.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 🔗 Social info
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/soumi-pal-basu-a6712a106/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://t.me/Sheulibelongshere">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=soumi.basu16@yahoo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-</div>
-
----
-
-### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
