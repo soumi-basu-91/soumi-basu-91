@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+soumi-basu-91%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=Corefinder89&color=ff69b4)
+
 ---
 ### 👦 About Me
 - 👨‍💻 I'm a EC graduate from West Bengal University of Technology (WBUT)
